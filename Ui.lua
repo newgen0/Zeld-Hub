@@ -2160,4 +2160,4 @@ function Alc:NewWindow(WindowName:string,WindowDescription:string,WindowLogo:str
 	end)
 
 	return WindowAlc
-endp
+end
